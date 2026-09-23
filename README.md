@@ -3,6 +3,8 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:E6E6FA,50:C1F0DB,100:FADDE1&height=128&section=header" alt="Pastel gradient wave" />
 
+  <img width="92%" src="./assets/riya-systems-orbit.svg" alt="Isometric systems orbit: research, build, verify, and ship" />
+
   <a href="https://github.com/riyaayay">
     <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=25&pause=1100&color=9C89B8&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;Building+things+that+ship%2C+not+just+things+that+work" alt="AI Engineer, Full-Stack Developer, Building things that ship—not just things that work" />
   </a>
@@ -14,10 +16,9 @@
 
 ## A little about me
 
-```text
-research instinct  ────────►  production mindset
-       curiosity   ·   care   ·   useful outcomes
-```
+### My north star
+
+> I like systems that are ambitious enough to be interesting—and honest enough to deserve trust.
 
 - I’m a Computer Science engineer—B.Tech AI & ML at VIT Bhopal, alongside a Data Science dual degree at IIT Madras.
 - I build AI systems that know when they cannot be trusted: RAG pipelines with hallucination-verifier agents, not just API wrappers.
@@ -25,11 +26,27 @@ research instinct  ────────►  production mindset
 - Shortlisted for Amazon ML Summer School—one of 3,000 selected from 134,000+ applicants.
 - Currently a Full-Stack Software Engineering Intern; previously shipped an AI/Deep Learning internship at a government DAE facility.
 
+### The way I think about systems
+
+| Ask | Build | Verify | Ship |
+|:---:|:---:|:---:|:---:|
+| Find the failure mode early. | Make the smallest useful thing real. | Measure what confidence is earned. | Put it where it can matter. |
+
 <!-- Section: Projects -->
 
 ## Things I’m building
 
 <p align="center"><i>From trustworthy intelligence to systems that make a measurable dent.</i></p>
+
+### The build loop
+
+```text
+signal ──► model ──► decision ──► safeguard ──► measurable outcome
+             │                         │
+          intelligence              responsibility
+```
+
+### Selected systems
 
 |  |  |
 |:---|:---|
@@ -40,6 +57,12 @@ research instinct  ────────►  production mindset
 <!-- Section: Stack -->
 
 ## My toolkit
+
+### A stack with shape
+
+<p align="center"><img width="92%" src="./assets/riya-stack-terrain.svg" alt="Isometric terrain showing code, AI and machine learning, backend, cloud, and data" /></p>
+
+<p align="center"><i>Each layer exists to take a useful idea from signal to production.</i></p>
 
 <div align="center">
 
@@ -64,6 +87,10 @@ research instinct  ────────►  production mindset
 
 ## A small window into my GitHub
 
+### Open-source pulse
+
+<p align="center"><i>Live signals from the work in progress.</i></p>
+
 <div align="center">
   <a href="https://github.com/riyaayay">
     <img height="168" src="https://github-readme-stats.vercel.app/api?username=riyaayay&theme=default&show_icons=true&hide_border=true&title_color=9C89B8&text_color=6B7280&icon_color=81B29A&bg_color=FFFDFB&rank_icon=github" alt="Riya's GitHub statistics" />
@@ -80,6 +107,8 @@ research instinct  ────────►  production mindset
 <!-- Section: Connect -->
 
 ## Let’s build something useful
+
+<p align="center"><i>If you care about reliable AI, real-world systems, or simply making complex things feel calm, I’d love to connect.</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/riya-rathod-75651a282"><img src="https://img.shields.io/badge/LinkedIn-B8E0F5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
