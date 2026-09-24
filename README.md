@@ -74,6 +74,17 @@ A few things I've built:
 
 <br><br>
 
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyaayay/riyaayay/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="a snake eating its way through my contribution graph" src="https://raw.githubusercontent.com/riyaayay/riyaayay/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br><br>
+
 <img alt="my contributions as a rotating 3D bar chart" src="https://raw.githubusercontent.com/riyaayay/riyaayay/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
 
 <br><br>
