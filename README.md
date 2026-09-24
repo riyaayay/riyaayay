@@ -73,7 +73,6 @@ A few things I've built:
 </picture>
 
 <br><br>
-
 ## GitHub activity
 
 <div align="center">
@@ -99,7 +98,7 @@ A few things I've built:
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyaayay&bg_color=FFFDFB&color=6B7280&line=9C89B8&point=F2A7B5&area=true&area_color=C1F0DB&title_color=9C89B8&hide_border=true" width="100%" alt="my activity over the last month" />
+<img src="https://github-readme-activity-graph-kynp1ktq1-riyaayays-projects.vercel.app/graph?username=riyaayay&bg_color=FFFDFB&color=6B7280&line=9C89B8&point=F2A7B5&area=true&area_color=C1F0DB&title_color=9C89B8&hide_border=true" width="100%" alt="my activity over the last month" />
 
 </div>
 
