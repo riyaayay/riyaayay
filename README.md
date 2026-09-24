@@ -73,16 +73,6 @@ A few things I've built:
 </picture>
 
 <br><br>
-## GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyaayay/riyaayay/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="a snake eating its way through my contribution graph" src="https://raw.githubusercontent.com/riyaayay/riyaayay/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br><br>
 
 <img alt="my contributions as a rotating 3D bar chart" src="https://raw.githubusercontent.com/riyaayay/riyaayay/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
 
@@ -100,14 +90,6 @@ A few things I've built:
 
 <img src="https://github-readme-activity-graph-kynp1ktq1-riyaayays-projects.vercel.app/graph?username=riyaayay&bg_color=FFFDFB&color=6B7280&line=9C89B8&point=F2A7B5&area=true&area_color=C1F0DB&title_color=9C89B8&hide_border=true" width="100%" alt="my activity over the last month" />
 
-</div>
-
-<br>
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyaayay&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Riya's GitHub trophies" />
 </div>
 
 <br>
